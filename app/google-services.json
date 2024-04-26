@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "62397455846",
+    "firebase_url": "https://umutpa-7caa0-default-rtdb.firebaseio.com",
+    "project_id": "umutpa-7caa0",
+    "storage_bucket": "umutpa-7caa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62397455846:android:147e1ca7bef483371c0a27",
+        "android_client_info": {
+          "package_name": "kz.iitu.umutpa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu4I0IIx7xoKY_ObqeVr9o12KH_2zQgtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

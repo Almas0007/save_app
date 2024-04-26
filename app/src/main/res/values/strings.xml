@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Umutpa</string>
+    <string name="signin">SIGN IN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="logout">LOG OUT</string>
+    <string name="signupNow">Don\'t Have an Account?\nSign Up</string>
+    <string name="signinNow">Already Have an Account?\nSign In</string>
+    <string name="name">Full Name</string>
+    <string name="mobileNo">Mobile Number</string>
+    <string name="email">Email</string>
+    <string name="dob">Date of Birth</string>
+    <string name="password">Password</string>
+    <string name="select_your_photo">🔝\nSelect your photo</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="daily_routine">Daily Routine</string>
+    <string name="profile">Profile</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="download">Download</string>
+    <string name="quiz1">Quiz Name</string>
+    <string name="attempt">Attempt</string>
+    <string name="create_a_test_btn">You can create a test\nTap here</string>
+
+    <string-array name="supportOption">
+        <item>Add person to remember</item>
+        <item>Add Location/Place</item>
+        <item>Add Daily Routine</item>
+        <item>Add Appointment</item>
+    </string-array>
+</resources>
